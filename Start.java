@@ -1,4 +1,4 @@
-public class FunWithJava {
+public class Start{
 
     record Cat(String name) {}
     record Dog(String name) {}
